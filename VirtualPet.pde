@@ -1,5 +1,5 @@
 size(400,400);
-color b = color(0,0,0); //Black
+color b = color(25,25,25); //Black
 color b2 = color(30,30,30); //Lighter Black
 color b3 = color(50,50,50); //Lighter Lighter Black
 color b4 = color(20,50,20); //Greenish Black
